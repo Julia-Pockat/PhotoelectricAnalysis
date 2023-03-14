@@ -5,6 +5,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 import math
 import matplotlib.pyplot as plt
+import pandas as pd
 
 #defining the matricies with the data that was collected from our experiment / known quantities
 elementaryCharge = 1.602 * math.pow(10, -19)
@@ -33,3 +34,4 @@ plt.xlabel('Frequency (Hz)')
 plt.ylabel('Cutoff Voltage')
 plt.title('Frequency (Hz) vs Cutoff Voltage for the Photoelectric Effect Experiment')
 plt.plot(frequencies1, a*frequencies1+b)
+
