@@ -1,4 +1,4 @@
-Filter 404nm ,Voltage V,Current (nA) 1 [bad data],Voltage V,Current (nA) 2,Current (nA) 3,Current (nA) 4
+Filter 404nm,Voltage V1,Current (nA) 1 [bad data],Voltage V,Current (nA) 2,Current (nA) 3,Current (nA) 4
 ,0,4.1,0,5.45,5.5,
 ,1,3.58,1,4.79,4.84,
 ,2,2.87,2,3.84,3.88,
